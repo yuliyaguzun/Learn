@@ -1,0 +1,46 @@
+div, input, button, form, span, a, ul, li {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #FE0000;
+}
+
+h2 {
+    background: #008001;
+    color: #FFFFFF;
+}
+
+.wrapper {
+    background: #0000FE;
+    color: #FFFFFF;
+    font-size: 17px;
+    width: 110px;
+    margin-bottom: 100px;
+}
+
+p.new span {
+    color: #FE0000;
+}
+
+.block {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#block_center {
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.tab {
+    margin-left: 50px;
+}
+
+li {
+    border: 0.1px solid #000;
+    font-size: 22px;
+}
